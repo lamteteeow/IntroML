@@ -1,0 +1,20 @@
+####
+# IntroML Gitignore
+#
+
+# Ignore PDFs
+*.pdf
+
+# Ignore Virtualenv
+
+/bin/*
+/lib/*
+
+# Ignore temp Python Files
+*/__pycache__/*
+
+# Ignore Compressed Files
+*.zip
+
+# Ignore .idea
+*.idea
