@@ -1,6 +1,10 @@
 # IntroML
 
-+Introduction to Machine Learning - Winter Term 2021*
+Machine Learning projects
 
-This repository was made to exchange the exercises for IntroML with the group, it is therefore set to private
-asd
+This repository was made to exchange the exercises for IntroML. This contains 5 sub-topics:
+- Fourier decomposition of a chirp signal
+- Image preprocessing using Otsu thresholding
+- Edge detection using Canny ED
+- Automatically-aligned Palmprint
+- Face generation from Eigenfaces
